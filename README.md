@@ -1,5 +1,7 @@
 # React workshop 2
 
+A continuation from [React Workshop 1](https://github.com/deadcore/react-workshop-number-1)
+
 In this workshop we focus on laying the foundation for adding items.
 We also began to touch on deleting entries by passing functions through a one way data binding exercise
 We focused on using the `state` as well as one way data binding using the `props` to pass in an `onDelete` method
