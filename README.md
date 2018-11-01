@@ -16,8 +16,9 @@ For example, this will not re-render a component:
 ```
 // Wrong
 this.state.comment = 'Hello';
+```
 Instead, use setState():
-
+```
 // Correct
 this.setState({comment: 'Hello'});
 ```
